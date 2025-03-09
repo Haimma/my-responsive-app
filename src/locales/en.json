@@ -1,0 +1,49 @@
+{
+  "app": {
+    "title": "My App",
+    "toggleRTL": "Toggle RTL/LTR"
+  },
+  "navigation": {
+    "home": "Home",
+    "contact": "Contact",
+    "fields": "Fields",
+    "table": "Table"
+  },
+  "home": {
+    "title": "Home",
+    "welcomeParagraph": "Welcome to our website, where you can find everything you need. We are dedicated to providing the best user experience, offering seamless navigation, engaging content, and a variety of features to explore. Whether you are here for information, entertainment, or business, we have something for you. Dive in and enjoy the journey!"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "fields": {
+    "title": "Fields",
+    "personalInformation": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "fullAddress": "Full Address",
+    "age": "Age",
+    "hobbies": "Hobbies",
+    "describeHobbies": "Describe your hobbies",
+    "additionalInformation": "Additional Information",
+    "extraInfo": "Anything else you want to add?",
+    "submit": "Submit"
+  },
+  "table": {
+    "title": "User Table",
+    "id": "ID",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "department": "Department",
+    "status": "Status",
+    "location": "Location",
+    "dateJoined": "Date Joined"
+  }
+}
